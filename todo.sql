@@ -68,6 +68,8 @@ CREATE TABLE `users` (
 -- Dumping data for table `users`
 --
 
+-- password : password123
+
 LOCK TABLES `users` WRITE;
 /*!40000 ALTER TABLE `users` DISABLE KEYS */;
 INSERT INTO `users` VALUES (1,'alice69','ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f','Alice Wonderland','0175898852','User','Basic','2025-09-28 13:21:02'),(2,'bob29','ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f','Bob The Builder','0174589652','Admin','Premium','2025-09-28 13:21:02');
