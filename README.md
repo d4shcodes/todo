@@ -23,6 +23,30 @@
     <li><strong>Database:</strong> MySQL</li>
   </ul>
 
+  <h2>🖼️ Screenshots / GUI Preview</h2>
+  <table>
+    <tr>
+      <th>Login Screen</th>
+      <th>Home Screen</th>
+      <th>Add Task Screen</th>
+    </tr>
+    <tr>
+      <td><img width="1080" height="2400" alt="Screenshot_1759495782" src="https://github.com/user-attachments/assets/bbdc65c7-b351-4a1e-bee7-6b48db22b49c" /></td>
+      <td><img width="1080" height="2400" alt="Screenshot_1759495851" src="https://github.com/user-attachments/assets/ad1ecd73-a1b4-462c-a939-8fa8c6d612fb" /></td>
+      <td><img width="1080" height="2400" alt="Screenshot_1759495946" src="https://github.com/user-attachments/assets/9224cf45-7823-4c60-9c58-d323c4101f6a" /></td>
+    </tr>
+    <tr>
+      <th>Task Completed View</th>
+      <th>Delete Task</th>
+      <th>Profile Screen</th>
+    </tr>
+    <tr>
+      <td><img width="1080" height="2400" alt="Screenshot_1759496055" src="https://github.com/user-attachments/assets/82e6ce07-eb23-4526-b2ac-52b59d665d52" /></td>
+      <td><img width="1080" height="2400" alt="Screenshot_1759496646" src="https://github.com/user-attachments/assets/585af753-ddb5-4dcb-bf52-4e02c35f781f" /></td>
+      <td><img width="1080" height="2400" alt="Screenshot_1759495873" src="https://github.com/user-attachments/assets/396efbb3-747e-4faf-8783-47bd00714fd4" /></td>
+    </tr>
+  </table>
+
   <h2>⚙️ Key Features</h2>
   <ul>
     <li>Secure user login authentication</li>
@@ -40,3 +64,7 @@
     This project demonstrates a functional and minimalistic task management system integrating
     <strong>Flutter</strong>, <strong>Spring Boot</strong>, and <strong>MySQL</strong> to improve daily productivity.
   </p>
+
+
+
+  
