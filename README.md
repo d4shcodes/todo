@@ -4,12 +4,11 @@
 
   <h2>👥 Group Members</h2>
   <table>
-    <tr><th>Name</th><th>Matric ID</th></tr>
-    <tr><td>Nurul Sofea binti Zonkifle</td><td>B24301082</td></tr>
-    <tr><td>Nur Amirah Hanisah binti Abdul Hadi</td><td>B24301016</td></tr>
-    <tr><td>Dashen A/L Kunasegaran</td><td>B24361074</td></tr>
-    <tr><td>Tham Weng Onn</td><td>B24361150</td></tr>
-    <tr><td>Vimalan A/L Kumara Rueben</td><td>B24361039</td></tr>
+   <tr><td>NURUL SOFEA BINTI ZONKIFLE</td><td>B24301082</td></tr>
+    <tr><td>NUR AMIRAH HANISAH BINTI ABDUL HADI</td><td>B24301016</td></tr>
+    <tr><td>THAM WENG ONN</td><td>B24361150</td></tr>
+    <tr><td>VIMALAN A/L KUMARA RUEBEN</td><td>B24361039</td></tr>
+    <tr><td>DASHEN A/L KUNASEGARAN</td><td>B24361074</td></tr>
   </table>
 
   <h2>📘 Project Overview</h2>
